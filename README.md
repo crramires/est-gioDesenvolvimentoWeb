@@ -1,4 +1,4 @@
- - Os exércicios de E1 até E6 estão em arquivos separados cada um e todos estão com saída via console.log();
+ - Os exercícios de E1 até E6 estão em arquivos separados cada um e todos estão com saída via console.log();
  
  - O exercício E6 foi utilizado a lib ' axios ' para realização do exercício.
  
